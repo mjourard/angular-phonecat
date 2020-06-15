@@ -1,7 +1,7 @@
 # AngularJS Phone Catalog Tutorial Application
 
 Now with webpack! 
-Forked for a [blog post](https://mjourard.github.io/blog/2020/06/08/adding-webpack-angularjs) tutorial on adding webpack to an existing AngularJS app.
+Forked for a [blog post](https://mjourard.github.io/blog/2020/06/15/adding-webpack-to-angularjs) tutorial on adding webpack to an existing AngularJS app.
 
 ## Overview
 
